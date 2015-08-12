@@ -1,6 +1,6 @@
 #awesome-python
 
-A curated list of awesome python frameworks, libraries and software.
+A curated list of awesome Python frameworks, libraries and software.
 
 * [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries and software
 * [faif/python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
