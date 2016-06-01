@@ -1600,3 +1600,4 @@ A curated list of awesome Python frameworks, libraries and software.
 * [linkedin/pyexchange](https://github.com/linkedin/pyexchange) - Python wrapper for Microsoft Exchange
 * [clowwindy/p.py](https://github.com/clowwindy/p.py) - Fuck GFW with 25 lines of code
 * [baudm/mplayer.py](https://github.com/baudm/mplayer.py) - Lightweight Python wrapper for MPlayer
+* [johnwheeler/flask-ask](https://github.com/johnwheeler/flask-ask) - Rapidly develop Alexa Skills for Amazon Echo devices using Python
