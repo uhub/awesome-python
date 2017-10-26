@@ -1439,7 +1439,6 @@ A curated list of awesome Python frameworks, libraries and software.
 * [veegee/guv](https://github.com/veegee/guv) - A fast event loop like gevent for Python 3, built on greenlets and libuv
 * [lobocv/pyperform](https://github.com/lobocv/pyperform) - An easy and convienent way to performance test python code.
 * [iskandr/parakeet](https://github.com/iskandr/parakeet) - Runtime compiler for numerical Python
-* [heroku/simple-salesforce](https://github.com/heroku/simple-salesforce) - A very simple Salesforce.com REST API client for Python
 * [YelpArchive/python-gearman](https://github.com/YelpArchive/python-gearman) - Gearman API - Client, worker, and admin client interfaces
 * [kz26/PyExcelerate](https://github.com/kz26/PyExcelerate) - Accelerated Excel XLSX Writing Library for Python 2/3
 * [exaviorn/RasPiWrite](https://github.com/exaviorn/RasPiWrite) - A Python Script that prepairs and installs a Raspberry Pi compatiable distro to an SD Card
