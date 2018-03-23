@@ -3,6 +3,7 @@
 A curated list of awesome Python frameworks, libraries and software.
 
 * [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
+* [Programming Community Curated Resources for Learning Python](https://hackr.io/tutorials/learn-python) - List of Tutorials submitted and voted by programming community.
 * [jakubroztocil/httpie](https://github.com/jakubroztocil/httpie) - Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  https://httpie.org
 * [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 * [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
