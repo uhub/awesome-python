@@ -2406,3 +2406,4 @@ A curated list of awesome Python frameworks, libraries and software.
 * [shuge/zbox_wiki](https://github.com/shuge/zbox_wiki) - A lightweight wiki system implement in web.py
 * [linkedin/pyexchange](https://github.com/linkedin/pyexchange) - Python wrapper for Microsoft Exchange
 * [baudm/mplayer.py](https://github.com/baudm/mplayer.py) - Lightweight Python wrapper for MPlayer
+* [Crypto-Vinaigrette](https://github.com/aditisrinivas97/Crypto-Vinaigrette) - Quantum-resistent asymmetric key generation tool for digital signatures.
