@@ -119,6 +119,7 @@ A curated list of awesome Python frameworks, libraries and software.
 * [coursera-dl/coursera-dl](https://github.com/coursera-dl/coursera-dl) - Script for downloading Coursera.org videos and naming them.
 * [MorvanZhou/tutorials](https://github.com/MorvanZhou/tutorials) - 机器学习相关教程
 * [falconry/falcon](https://github.com/falconry/falcon) - The minimalist web API framework for building incredibly fast, reliable, and scalable microservices, proxies, and app backends in Python.
+* [python-microservices/pyms](https://github.com/python-microservices/pyms) - PyMS, Python MicroService, is a Microservice chassis pattern like Spring Boot (Java) or Gizmo (Golang). PyMS is a collection of libraries, best practices and recommended ways to build microservices with Python.
 * [harelba/q](https://github.com/harelba/q) - q - Run SQL directly on CSV or TSV files
 * [clips/pattern](https://github.com/clips/pattern) - Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization.
 * [divio/django-cms](https://github.com/divio/django-cms) - The easy-to-use and developer-friendly CMS
