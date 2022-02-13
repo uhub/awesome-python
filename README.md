@@ -990,3 +990,4 @@ A curated list of awesome Python frameworks, libraries and software.
 * [dragen1860/Deep-Learning-with-TensorFlow-book](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book) - 深度学习入门开源书，基于TensorFlow 2.0案例实战。Open source Deep Learning book, based on TensorFlow 2.0 framework.
 * [home-assistant/home-assistant](https://github.com/home-assistant/home-assistant) - :house_with_garden: Open source home automation that puts local control and privacy first
 * [pandas-profiling/pandas-profiling](https://github.com/pandas-profiling/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects
+* [Correia-jpv/github-follow-bot](https://github.com/Correia-jpv/github-follow-bot#readme) - 🤖 Automated follow/unfollow bot for GitHub. Follow from multiple sources. Choose which users to unfollow. Custom options to control bot speed and maximum actions.
