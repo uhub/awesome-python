@@ -1,6 +1,6 @@
 # awesome-python
 
-A curated list of awesome Python frameworks, libraries and software.
+A curated list of awesome [Python frameworks](https://www.scaler.com/topics/python-frameworks/), libraries and software.
 
 * [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 * [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
