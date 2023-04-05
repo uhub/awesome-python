@@ -611,3 +611,4 @@ A curated list of awesome Python frameworks, libraries and software.
 * [vyperlang/vyper](https://github.com/vyperlang/vyper) - Pythonic Smart Contract Language for the EVM
 * [ReactiveX/RxPY](https://github.com/ReactiveX/RxPY) - ReactiveX for Python
 * [cookiecutter-flask/cookiecutter-flask](https://github.com/cookiecutter-flask/cookiecutter-flask) - A flask template with Bootstrap, asset bundling+minification with webpack, starter templates, and registration/authentication. For use with cookiecutter.
+* [py-gutenberg](https://github.com/peterrauscher/py-gutenberg) - A library to scrape full texts and metadata from books on Project Gutenberg.
