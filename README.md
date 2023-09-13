@@ -741,3 +741,4 @@ A curated list of awesome Python frameworks, libraries and software.
 * [commixproject/commix](https://github.com/commixproject/commix) - Automated All-in-One OS Command Injection Exploitation Tool.
 * [SecureAuthCorp/impacket](https://github.com/SecureAuthCorp/impacket) - Impacket is a collection of Python classes for working with network protocols.
 * [py-pdf/PyPDF2](https://github.com/py-pdf/PyPDF2) - A pure-python PDF library capable of splitting, merging, cropping, and transforming the pages of PDF files
+* [sharded-queue](https://github.com/basis-company/sharded-queue.py) - Sharded-queue is a queue with sub-queues and strict order.
