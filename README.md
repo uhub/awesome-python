@@ -1189,3 +1189,4 @@ A curated list of awesome Python frameworks, libraries and software.
 * [orchest/orchest](https://github.com/orchest/orchest) - Build data pipelines, the easy way 🛠️
 * [SecureAuthCorp/impacket](https://github.com/SecureAuthCorp/impacket) - Impacket is a collection of Python classes for working with network protocols.
 * [py-pdf/PyPDF2](https://github.com/py-pdf/PyPDF2) - A pure-python PDF library capable of splitting, merging, cropping, and transforming the pages of PDF files
+* [fdnpy](https://github.com/financialdatanet/fdnpy) - Get real-time and historical stock data, financial statements, and more.
