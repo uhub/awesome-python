@@ -1145,6 +1145,7 @@ A curated list of awesome Python frameworks, libraries and software.
 * [python-security/pyt](https://github.com/python-security/pyt) - A Static Analysis Tool for Detecting Security Vulnerabilities in Python Web Applications
 * [xnl-h4ck3r/xnLinkFinder](https://github.com/xnl-h4ck3r/xnLinkFinder) - A python tool used to discover endpoints, potential parameters, a target specific wordlist for a given target and secrets
 * [GamehunterKaan/AutoPWN-Suite](https://github.com/GamehunterKaan/AutoPWN-Suite) - AutoPWN Suite is a project for scanning vulnerabilities and exploiting systems automatically.
+* [Python Obfuscator & Virtualizer](https://www.pelock.com/python-obfuscator/) - Obfuscate, virtualize & protect Python scripts with advanced obfuscations, code virtualization, finite-state automata transformations, self-integrity checks, anti-debugging.
 
 ### Authentication and Authorization
 
